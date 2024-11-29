@@ -58,10 +58,6 @@ El archivo `appsettings.json` contiene la configuración para los JWT. Asegúrat
 3. Accede a rutas protegidas mientras el token sea válido.  
 4. Cierra sesión para eliminar el token.
 
-## Capturas de pantalla
-
-*(Incluye capturas de pantalla de tu aplicación aquí para mayor claridad).*
-
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
